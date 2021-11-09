@@ -1,0 +1,1 @@
+import{S as t,i as s,s as o,A as r}from"../chunks/vendor-821b5e65.js";async function u(){return this.redirect(301,"/en")}function a(n){return r(function(){window.location.replace("/en")}),[]}class c extends t{constructor(e){super();s(this,e,a,null,o,{})}}export{c as default,u as preload};
